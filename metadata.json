@@ -1,0 +1,7 @@
+{
+  "name": "AmplopKu - Pencatat Amplop Acara",
+  "description": "Aplikasi praktis untuk mencatat pemasukan dan pengeluaran amplop saat acara keluarga atau teman dengan dukungan AI untuk ekstraksi data otomatis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
